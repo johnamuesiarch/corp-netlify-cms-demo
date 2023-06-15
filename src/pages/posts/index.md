@@ -1,7 +1,7 @@
 ---
-title: Using Netlify CMS with an Astro site
-publishDate: 16 May 2022
-author: Chris Swithinbank
+title: Using Netlify CMS with a Frasers site
+publishDate: 15 June 2023
+author: John Jonathan
 authorURL: https://twitter.com/swithinbank
 description: How to get started using Netlify CMS to manage your Astro site’s content
 layout: ../../layouts/BlogPost.astro
